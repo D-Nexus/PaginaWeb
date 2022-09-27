@@ -59,7 +59,7 @@ img.gif2{
 .sub3{
     color: rgb(255, 255, 255);
     font-weight: border;
-    text-align: center;
+    text-align: left;
     font-family: bit;
     background: -webkit-linear-gradient(rgb(0, 255, 255),rgb(0, 255, 136));
     -webkit-background-clip: text;
@@ -73,7 +73,7 @@ ul{
     display: inline-block;
     color: rgb(253, 210, 146);
     font-family: bit2;
-    margin-left: 200px;
+    margin-left: 20px;
 }
 li{
     padding-left: 30px;
